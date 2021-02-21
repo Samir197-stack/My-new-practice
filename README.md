@@ -1,2 +1,2 @@
-# My-new-practice
+# Groupmanagerbot
 In this practice I will learn everything.
